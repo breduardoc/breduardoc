@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @breduardoc Eduardo Capucho
 - 👀 I’m interested in becoming the best in what I chose to do
-- 🌱 I’m currently learning Java, Pytho, PHP, ML
+- 🌱 I’m currently learning Java, Python, ML, JS, TS, PHP, MySQL, Apache
 - 💞️ I’m looking to collaborate on everthing that I can
 - 📫 How to reach me : send a direct. Probally I'll answear during the weekend
 
